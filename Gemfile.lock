@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    exif (2.2.4)
+
+PLATFORMS
+  x86_64-darwin-19
+
+DEPENDENCIES
+  exif
+
+BUNDLED WITH
+   2.2.11
