@@ -1,4 +1,4 @@
-Simple script to fetch any given exif data fron any image, both locally or from url: 
+## Simple script to fetch any given exif data fron any image. Both locally or from url: 
 
 E.g. 
 
